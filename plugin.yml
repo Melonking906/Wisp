@@ -1,0 +1,9 @@
+name: Wisp
+main: me.nonit.wisp.Wisp
+version: 0.2
+description: Wisps for all!
+author: Melonking
+depend: [Vault]
+commands:
+  wispname:
+    description: Name your wisp!

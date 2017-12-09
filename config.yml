@@ -1,0 +1,11 @@
+# Wisp config - www.okicore.com
+
+# Storage actionType "sqlite" or "mysql"
+type: 'sqlite'
+
+# MySQL connection settings.
+host: 'localhost'
+port: '3306'
+user: 'root'
+password: 'password'
+database: 'nicky'
